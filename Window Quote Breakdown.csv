@@ -1,0 +1,12 @@
+Description,Qty,Area of Glass, Glass Cost, Sash Perimeter, Wood Cost,Installation Cost,Sash + Installation, Unit Tax, Total Tax, Total Cost - Tax
+23x68 Single Hung Window,2,8.58 SqFt, $308,21ft, $588, $650, $1560, $50.71, $101.43, $3120
+35x68 Single Hung Window,1,13.99 SqFt, $503,25ft, $700, $650, $1870, $60.37, $60.37, $1870
+23x60 Single Hung Window,2,7.52 SqFt, $270,19ft, $532, $650, $1460, $45.88, $91.77, $2920
+35x59 Single Hung Window,1,11.84 SqFt, $425,23ft, $644, $650, $1730, $55.54, $55.54, $1730
+33x60 Single Hung Window,1,11.48 SqFt, $412,23ft, $644, $650, $1710, $55.54, $55.54, $1710
+33x60 Single Hung Window,1,11.48 SqFt, $412,23ft, $644, $650, $1710, $55.54, $55.54, $1710
+47x60 Single Hung Window,1,17.02 SqFt, $612,27ft, $756, $650, $2020, $65.20, $65.20, $2020
+23x60 Single Hung Window,1,7.52 SqFt, $270,19ft, $532, $650, $1460, $45.88, $45.88, $1460
+23x60 Single Hung Window,1,7.52 SqFt, $270,19ft, $532, $324, $1140, $45.88, $45.88, $1140
+ , , , , , , , , Total:, $577.19, $738215184
+ , , , , , , , , Total:, $18257.18
